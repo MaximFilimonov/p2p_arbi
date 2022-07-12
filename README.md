@@ -1,0 +1,1 @@
+# This repo contains the app to get exchange's data
